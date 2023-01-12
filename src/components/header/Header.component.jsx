@@ -2,7 +2,7 @@ import { faBed, faCalendarDays, faCar, faPerson, faPlane, faTaxi } from "@fortaw
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
 import { DateRange } from "react-date-range";
-import "./Header.styles.css"
+import "./header.styles.css"
 import 'react-date-range/dist/styles.css'; // main react-date-range css file
 import 'react-date-range/dist/theme/default.css'; // react-date-range  theme css file
 import { format } from "date-fns";
